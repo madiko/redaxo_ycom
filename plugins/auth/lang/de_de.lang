@@ -22,14 +22,14 @@ ycom_auth_config_id_jump_activation_fail = .. nach fehlgeschlagener Aktivierung
 ycom_auth_config_id_jump_newpassword_ok = ... nach erfolgreicher Passwortrücksetzung
 ycom_auth_config_id_jump_newpassword_fail = .. nach fehlgeschlagener Passwortrücksetzung
 ycom_auth_config_id_jump_password = ... wenn neues Passwort setzen (new_password_required-Feld) gesetzt ist [optional]
-ycom_auth_config_id_jump_termofuse = ... wenn Nutzungsbedingungen noch nicht bestätigt wurden (termofuse_accepted-Feld nicht gesetzt ist) [optional]
+ycom_auth_config_id_jump_termsofuse = ... wenn Nutzungsbedingungen noch nicht bestätigt wurden (termsofuse_accepted-Feld nicht gesetzt ist) [optional]
 
 ycom_auth_settings_updated = Konfiguration wurde gespeichert
 
 ycom_auth_info_title = Erklärung
 
 ycom_auth_perm = Zugriffsrechte
-ycom_auth_update_perm = Aktualisieren
+ycom_auth_update_perm = aktualisieren
 ycom_auth_perm_updated = Rechte wurden aktualisiert
 
 ycom_auth_password_not_updated = Passwort wurde nicht aktualisiert
@@ -55,6 +55,7 @@ ycom_validate_password_policy_rules_error_message = Fehlermeldung
 ycom_validate_password_policy_rules_script = PasswortCreator aktivieren
 
 ycom_auth_config_pages = Allgemeine Seiten
-ycom_auth_config_id_login = Login-Seite
+ycom_auth_config_id_login = LogIn-Seite
+ycom_auth_config_id_logout = LogOut-Seite
 ycom_auth_config_id_register = Register-Seite
 ycom_auth_config_id_password = Passwort zurücksetzen
